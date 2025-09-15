@@ -1,5 +1,5 @@
 trial = 3
-secret = 7
+secret = int(input("Set the secret number between 1 and 10: "))
 guess = int(input("Guess a number between 1 and 10: "))
 count = 0
 
